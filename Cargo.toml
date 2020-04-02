@@ -1,0 +1,13 @@
+[package]
+name = "settings_path"
+version = "0.1.0"
+authors = ["f3kilo <f3kilo@yandex.ru>"]
+edition = "2018"
+repository = "https://github.com/F3kilo/easy_graph.git"
+description = "Data structure that represent generic vertices and undirected connections"
+license = "MIT"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
